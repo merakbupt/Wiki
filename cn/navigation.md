@@ -19,12 +19,12 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Writeup]()
+[Writeup](pages/writeup/index.md)
 
   * # Writeup
   * [NJUPT CTF2019](pages/writeup/NJUPT-2019.md)
 
-[知识库]()
+[知识库](pages/knowledge/index.md)
 
   * # Web
   * [注入](pages/knowledge/web/index.md)
