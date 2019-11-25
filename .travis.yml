@@ -10,4 +10,4 @@ script:
   - mkdocs build
 
 after_success:
-    - bash deploy/deploy.sh
+    - bash .travis/deploy.sh
