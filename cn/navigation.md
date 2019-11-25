@@ -27,20 +27,19 @@
 [知识库]()
 
   * # Web
-  * [注入](pages/subitem3.md)
-  * [反序列化](pages/subitem3.md)
+  * [注入](pages/knowledge/web/index.md)
   - - - -
   * # Pwn
-  * [溢出](pages/subitem3.md)
+  * [溢出](pages/knowledge/pwn/index.md)
   - - - -
   * # Reverse
-  * [SMC反调试](pages/subitem3.md)
+  * [SMC反调试](pages/knowledge/re/index.md)
   - - - -
   * # Crypto
-  * [RSA](pages/subitem3.md)
+  * [RSA](pages/knowledge/crypto/index.md)
   - - - -
   * # Misc
-  * [流量分析](pages/subitem3.md)
+  * [流量分析](pages/knowledge/misc/index.md)
 
 
 [gimmick:themechooser](Choose theme)
