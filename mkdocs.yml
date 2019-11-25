@@ -1,0 +1,5 @@
+site_name: Merak Wiki
+theme: 
+  name: material
+  feature:
+    tabs: true

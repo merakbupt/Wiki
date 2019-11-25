@@ -1435,7 +1435,7 @@ NCTF{youarnicerockstar}
 ## Crypto
 ### keyboard
 看到这里总共有8个字母，最多重复了4次，觉得就对应了手机键盘中的九宫输入法，去手试了试，前面就出来了youare，于是写了个程序码了出来
-```a aaaaa 
+```c
 #include <cstdio>
 #include <cstring>
 char a[100][5]={"ooo","yyy","ii","w","uuu","ee","uuuu","yyy","uuuu","y","w","uuu","i","i","rr","w","i","i","rr","rrr","uuuu","rrr","uuuu","t","ii","uuuu","i","w","u","rrr","ee","www","ee","yyy","eee","www","w","tt","ee"};
