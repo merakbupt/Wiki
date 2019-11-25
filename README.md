@@ -1,3 +1,3 @@
 # Meark-Wiki
 
-![build](https://api.travis-ci.com/merakbupt/merakbupt.github.io.svg?branch=master)
+![build](https://api.travis-ci.com/merakbupt/Wiki.svg?branch=master) 
