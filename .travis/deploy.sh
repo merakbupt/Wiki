@@ -6,7 +6,7 @@ git rm -rf .
 cd ..
 mv site/* deploy
 cd deploy
-echo "wiki.merak.codes" > CNAME
+# echo "wiki.merak.codes" > CNAME
 git add --all
 git config user.name "Travis CI"
 git config user.email "travis@travis-ci.org"
