@@ -8,3 +8,6 @@ install:
 # command to run tests
 script:
   - mkdocs build
+
+after_success:
+    - bash deploy/deploy.sh
