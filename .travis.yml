@@ -9,5 +9,9 @@ install:
 script:
   - mkdocs build
 
-after_success:
-    - bash .travis/deploy.sh
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: bash .travis/deploy.sh
+  on:
+    branch: master
