@@ -11,5 +11,5 @@ git add --all
 git config user.name "Travis CI"
 git config user.email "travis@travis-ci.org"
 git commit --message "Auto deploy from Travis CI"
-git remote add deploy "https://$GITHUB_TOKEN@github.com/merakbupt/merakbupt.github.io.git" &>/dev/null
-git push deploy master &>/dev/null
+git remote add deploy "https://$GITHUB_TOKEN@github.com/merakbupt/merakbupt.github.io.git"
+git push deploy master
